@@ -11,6 +11,30 @@
   <a href="https://my-planner-487bd.web.app"><strong>마이플래너 시작하기</strong></a>
 </p>
 
+<!-- PLANNER_SCREENSHOTS_START -->
+## 화면으로 둘러보기
+
+### 시작 화면
+
+서비스 소개와 Google 로그인을 한 화면에서 만납니다.
+
+<p align="center"><img src="assets/planner-login-preview.png" width="960" alt="My Planner 로그인 화면과 소개 포스터"></p>
+
+### 생각 남기기 — AI 서비스 예시
+
+자유롭게 기록하고, 정리 제안 중 필요한 항목을 선택하는 흐름입니다. **가상 기록과 예시 규칙을 사용한 데모**이며 실제 AI 분석 결과나 현재 제공 기능을 뜻하지 않습니다.
+
+<p align="center"><img src="assets/planner-ai-memo-preview.png" width="960" alt="생각 남기기 예시 분석 데모의 기록과 추천 항목"></p>
+
+### 나만의 홈
+
+시계·날씨·할 일·메모·목표·캘린더 등 필요한 정보를 모아 보는 홈 구성 예시입니다. 화면과 제공 위젯은 업데이트에 따라 달라질 수 있습니다.
+
+<p align="center"><img src="assets/planner-dashboard-preview.png" width="960" alt="My Planner 홈의 위젯 구성 예시"></p>
+
+[서비스 소개](https://my-planner-487bd.web.app/#about) · [사용 가이드](https://my-planner-487bd.web.app/#guide) · [AI 서비스 안내](https://my-planner-487bd.web.app/#ai)
+<!-- PLANNER_SCREENSHOTS_END -->
+
 ## 내 하루에 필요한 것들을, 한 페이지에
 
 | 이런 순간에 | 이렇게 사용해 보세요 |
