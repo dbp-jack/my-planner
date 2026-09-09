@@ -5,9 +5,9 @@
 오늘 해야 할 일부터 일정, 목표, 습관, 하루의 기록까지. my planner에서 기록하고 정리하며 나에게 맞는 하루를 만들어 보세요.
 
 <p align="center">
-  <a href="https://my-planner-487bd.web.app"><img src="https://raw.githubusercontent.com/dbp-jack/my-planner/main/assets/planner-logo.png" width="180" height="180" alt="my planner 통합 로고"></a>
+  <a href="https://my-planner-487bd.web.app"><img src="https://raw.githubusercontent.com/dbp-jack/my-planner/main/assets/planner-logo.png" width="220" height="220" alt="my planner 통합 로고"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://my-planner-487bd.web.app"><img src="https://raw.githubusercontent.com/dbp-jack/my-planner/main/assets/planner-site-qr.png" width="180" height="180" alt="마이플래너 서비스 접속 QR 코드"></a>
+  <a href="https://my-planner-487bd.web.app"><img src="https://raw.githubusercontent.com/dbp-jack/my-planner/main/assets/planner-site-qr.png" width="220" height="220" alt="마이플래너 서비스 접속 QR 코드"></a>
 </p>
 <p align="center">
   <a href="https://my-planner-487bd.web.app"><strong>마이플래너 시작하기</strong></a>
