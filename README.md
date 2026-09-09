@@ -50,6 +50,8 @@
 [서비스 소개](https://my-planner-487bd.web.app/#about) · [사용 가이드](https://my-planner-487bd.web.app/#guide) · [AI 서비스 안내](https://my-planner-487bd.web.app/#ai)
 <!-- PLANNER_SCREENSHOTS_END -->
 
+디데이와 기념일 모음에 사용하는 부드러운 배경 일러스트 12장을 만들었습니다. [분류별 이미지 모음은 Wiki에서 확인하세요.](https://github.com/dbp-jack/my-planner/wiki/Reminder-Backgrounds)
+
 ## 내 하루에 필요한 것들을, 한 페이지에
 
 | 이런 순간에 | 이렇게 사용해 보세요 |
