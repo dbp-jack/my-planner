@@ -6,11 +6,26 @@
 
 <p align="center">
   <a href="https://my-planner-487bd.web.app"><img src="https://raw.githubusercontent.com/dbp-jack/my-planner/main/assets/planner-logo.png" width="180" height="180" alt="my planner 통합 로고"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://my-planner-487bd.web.app"><img src="https://raw.githubusercontent.com/dbp-jack/my-planner/main/assets/planner-site-qr.png" width="180" height="180" alt="마이플래너 서비스 접속 QR 코드"></a>
 </p>
 <p align="center">
   <a href="https://my-planner-487bd.web.app"><strong>마이플래너 시작하기</strong></a>
 </p>
 
+## 로고에 담은 마음
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dbp-jack/my-planner/main/assets/planner-logo-story.png" width="500" alt="일상의 조각, 펼쳐 둔 일상, 일상의 돌봄을 담은 로고 설명">
+</p>
+
+- **일상의 조각:** 여러 기록을 내 방식으로 모으고 정리합니다.
+- **펼쳐 둔 일상:** 일상을 기록하고 필요할 때 다시 살펴봅니다.
+- **일상의 돌봄:** 나의 일상을 살피고 돌봅니다.
+
+통합 로고는 **기록하고 정리하며, 나의 일상을 돌보는 공간**을 뜻합니다.
+
+<!-- 로고·QR·로고 설명은 상단에 유지합니다. 새 화면·기능 소개는 반드시 이 아래에 추가합니다. -->
 <!-- PLANNER_SCREENSHOTS_START -->
 ## 화면으로 둘러보기
 
@@ -58,18 +73,6 @@
 
 상세 사용 가이드는 준비 중입니다. 기능과 화면은 개선 과정에서 달라질 수 있습니다.
 
-## 로고에 담은 마음
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dbp-jack/my-planner/main/assets/planner-logo-story.png" width="500" alt="일상의 조각, 펼쳐 둔 일상, 일상의 돌봄을 담은 로고 설명">
-</p>
-
-- **일상의 조각:** 여러 기록을 내 방식으로 모으고 정리합니다.
-- **펼쳐 둔 일상:** 일상을 기록하고 필요할 때 다시 살펴봅니다.
-- **일상의 돌봄:** 나의 일상을 살피고 돌봅니다.
-
-통합 로고는 **기록하고 정리하며, 나의 일상을 돌보는 공간**을 뜻합니다.
-
 ## AI와 함께하는 기록 — 준비 중
 
 자유롭게 남긴 메모와 링크에서 핵심 정보를 찾고, 할 일과 일정으로 정리할 수 있도록 돕는 경험을 준비하고 있습니다. 제안된 내용은 사용자가 확인하고 선택하는 방향으로 검토합니다.
@@ -78,11 +81,7 @@
 
 ## 마이플래너 알리기
 
-이 README 주소나 서비스 링크를 공유해 주세요. 아래 QR 코드로도 접속할 수 있습니다.
-
-<p align="center">
-  <a href="https://my-planner-487bd.web.app"><img src="https://raw.githubusercontent.com/dbp-jack/my-planner/main/assets/planner-site-qr.png" width="180" height="180" alt="마이플래너 서비스 접속 QR 코드"></a>
-</p>
+이 README 주소나 서비스 링크를 공유해 주세요. 상단 QR 코드로도 접속할 수 있습니다.
 
 서비스에 대한 문의와 제안은 로그인 후 서비스 안의 문의 게시판을 이용해 주세요. 공개된 공간에는 개인 일정, 계정 정보와 같은 민감한 내용을 올리지 말아 주세요.
 
